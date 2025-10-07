@@ -92,8 +92,8 @@ section h3 {
 }
 
 .participants-list {
-  list-style-type: none;
-  margin-left: 0;
+  list-style-type: disc;
+  margin-left: 20px;
   color: #283593;
   font-size: 15px;
   padding-left: 0;
